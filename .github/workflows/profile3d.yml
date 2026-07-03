@@ -26,5 +26,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "generated"
-          git push
+          # 生成物に差分が無いときは commit せず正常終了する
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "generated"
+            git push
+          fi
