@@ -1,36 +1,18 @@
 ## My GitHub Stats
 
-
+<!-- lowlighter/metrics が生成する単一ファイル -->
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output-3d-contrib/day.svg" />
-  </picture>
+  <img alt="github metrics" src="output/metrics.svg" width="600" />
 </p>
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
-
+<!-- github-profile-3d-contrib が profile-3d-contrib/ 配下に生成するファイル -->
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
+    <img alt="github profile 3D contributions chart" src="profile-3d-contrib/profile-season-animate.svg" width="700" />
   </picture>
 </p>
-
-
 
 <!--
 ## Hi there 👋
