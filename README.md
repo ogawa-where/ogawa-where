@@ -11,6 +11,11 @@
 <br>
 
 
+# 🧪 Also Tried
+<img alt="tried skills" src="https://skillicons.dev/icons?theme=dark&perline=16&i=java,swift,ruby,mongodb,dynamodb,azure,figma,discord" />
+<br>
+
+
 
 <!-- github-profile-3d-contrib が profile-3d-contrib/ 配下に生成する 3D 貢献グラフ -->
 <p align="center">
