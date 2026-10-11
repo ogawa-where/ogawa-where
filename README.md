@@ -6,6 +6,11 @@
 <br>
 
 
+# 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=16&i=py,ts,js,html,css,react,nextjs,vue,vite,tailwind,fastapi,django,postgres,aws,docker,githubactions,vitest,pnpm,git,github,windows,apple,linux,ubuntu,vscode,emacs,matlab,latex,notion,obsidian,twitter,instagram" />
+<br>
+
+
 
 <!-- github-profile-3d-contrib が profile-3d-contrib/ 配下に生成する 3D 貢献グラフ -->
 <p align="center">
