@@ -21,3 +21,14 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ogawa-where&theme=vue-dark&layout=compact" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogawa-where&theme=vue-dark&layout=compact" />
 </div>
+<br>
+
+
+# 🐍 Snake Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ogawa-where/ogawa-where/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
