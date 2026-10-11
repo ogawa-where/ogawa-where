@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 
 - 🧑‍💻 Software Engineer / QA Engineer
 - 🎓 M1 Student @ [**CPS Lab**](https://www.cps.akita-pu.ac.jp/), Akita Prefectural University
