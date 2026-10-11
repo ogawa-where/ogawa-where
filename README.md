@@ -1,4 +1,4 @@
-## Hi there 👋 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 <!-- github-profile-3d-contrib が profile-3d-contrib/ 配下に生成する 3D 貢献グラフ -->
 <p align="center">
